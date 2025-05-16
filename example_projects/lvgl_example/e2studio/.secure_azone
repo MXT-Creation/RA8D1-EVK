@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<azone>
+    <rzone name="R7FA8D1BHECBD.rzone"/>
+    <partition>
+        <peripheral name="PORT0.CM85" group="PORT">
+            <slot name="P009.CM85" secure="true"/>
+            <slot name="P015.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT1.CM85" group="PORT">
+            <slot name="P100.CM85" secure="true"/>
+            <slot name="P101.CM85" secure="true"/>
+            <slot name="P102.CM85" secure="true"/>
+            <slot name="P103.CM85" secure="true"/>
+            <slot name="P104.CM85" secure="true"/>
+            <slot name="P105.CM85" secure="true"/>
+            <slot name="P107.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT2.CM85" group="PORT">
+            <slot name="P210.CM85" secure="true"/>
+            <slot name="P211.CM85" secure="true"/>
+            <slot name="P212.CM85" secure="true"/>
+            <slot name="P213.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT3.CM85" group="PORT">
+            <slot name="P309.CM85" secure="true"/>
+            <slot name="P310.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT4.CM85" group="PORT">
+            <slot name="P414.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT6.CM85" group="PORT">
+            <slot name="P607.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT7.CM85" group="PORT">
+            <slot name="P706.CM85" secure="true"/>
+            <slot name="P707.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT8.CM85" group="PORT">
+            <slot name="P800.CM85" secure="true"/>
+            <slot name="P801.CM85" secure="true"/>
+            <slot name="P802.CM85" secure="true"/>
+            <slot name="P803.CM85" secure="true"/>
+            <slot name="P804.CM85" secure="true"/>
+            <slot name="P808.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT9.CM85" group="PORT">
+            <slot name="P906.CM85" secure="true"/>
+            <slot name="P907.CM85" secure="true"/>
+            <slot name="P909.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORTA.CM85" group="PORT">
+            <slot name="PA07.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="GLCDC.CM85" security="s"/>
+        <peripheral name="ICU_EXT_IRQ.CM85">
+            <slot name="ICU_EXT_IRQ13.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="GPT0.CM85" group="GPT" security="s"/>
+        <peripheral name="ICU.CM85">
+            <slot name="IRQ0.CM85" secure="true"/>
+            <slot name="IRQ1.CM85" secure="true"/>
+            <slot name="IRQ2.CM85" secure="true"/>
+            <slot name="IRQ3.CM85" secure="true"/>
+            <slot name="IRQ4.CM85" secure="true"/>
+            <slot name="IRQ5.CM85" secure="true"/>
+            <slot name="IRQ6.CM85" secure="true"/>
+            <slot name="IRQ7.CM85" secure="true"/>
+            <slot name="IRQ8.CM85" secure="true"/>
+            <slot name="IRQ9.CM85" secure="true"/>
+            <slot name="IRQ10.CM85" secure="true"/>
+            <slot name="IRQ11.CM85" secure="true"/>
+            <slot name="IRQ12.CM85" secure="true"/>
+            <slot name="IRQ13.CM85" secure="true"/>
+            <slot name="IRQ14.CM85" secure="true"/>
+            <slot name="IRQ15.CM85" secure="true"/>
+        </peripheral>
+    </partition>
+</azone>
